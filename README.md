@@ -1,5 +1,7 @@
 # NeuralNetFromScratch
-This Repo contains implemetation of Neural Net from scratch using libraries padas and numpy 
+This Repo contains implemetation of Neural Net from scratch using libraries padas and numpy.<br>
+This model predicts The possibilty of a person having a heart disease from features like max heart rate,blood sugar etc.
+
 ## Architecture
 3 layers
 
